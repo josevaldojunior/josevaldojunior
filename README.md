@@ -16,7 +16,7 @@
 <img align="center" alt="vue.js" src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </div>
 
-### 📫 Como Entrar em Contato
+### 📫 Contato
 
 <div> 
   <a href = "mailto:jjrsmedeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
