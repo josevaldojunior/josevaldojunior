@@ -16,13 +16,13 @@
 <img align="center" alt="vue.js" src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </div>
 
+### 🚀 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josevaldojunior&show_icons=true&theme=dracula)
+
 ### 📫 Contato
 
 <div> 
   <a href = "mailto:jjrsmedeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josevaldo-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-### 🚀 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josevaldojunior&show_icons=true&theme=dracula)
