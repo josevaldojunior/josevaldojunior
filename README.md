@@ -16,10 +16,6 @@
 <img align="center" alt="vue.js" src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </div>
 
-### 🚀 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josevaldojunior&show_icons=true&theme=dracula)
-
 ### 📫 Contato
 
 <div> 
