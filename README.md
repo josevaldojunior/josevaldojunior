@@ -13,7 +13,7 @@
 
 <div>
 <img align="center" alt="react" src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img align="center" alt="vue.js" src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
 
 ### 🚀 Estatísticas do GitHub
