@@ -20,6 +20,8 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josevaldojunior&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevaldojunior&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 Contato
 
 <div> 
