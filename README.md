@@ -1,4 +1,4 @@
-### Olá! Eu sou Josevaldo Junior, Desenvolvedor Full Stack 👋
+### Olá! Eu sou Josevaldo Junior e sou Desenvolvedor de Software 👋
 
 ### 🚀 Principais Tecnologias
 
@@ -13,15 +13,16 @@
 ### 🌱 Estou Aprendendo
 
 <div>
-<img align="center" alt="react" src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+  <img align="center" alt="react" src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
 </div>
 
 ### 🚀 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=josevaldojunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josevaldojunior&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true) 
+<div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josevaldojunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josevaldojunior&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
+</div>
 
 ### 📫 Contato
 
@@ -29,3 +30,5 @@
   <a href = "mailto:jjrsmedeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josevaldo-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+###
